@@ -12,3 +12,13 @@ Herramienta de reconocimiento de redes desarrollada en Python. Simula el comport
 * Hacking Ético y Reconocimiento (Footprinting).
 * Protocolos de red (TCP/IP).
 * Programación de redes en Python puro.
+* 
+* ## 💼 Professional Services & Consulting
+
+Are you looking to secure your corporate infrastructure or need a deep dive into your digital footprint? I offer professional cybersecurity consulting services:
+
+* 🔍 **[Corporate OSINT & Threat Intelligence Reports](https://es.fiverr.com/s/8zLklpp)**
+* 📝 **[Cybersecurity Policies & Manuals Creation](https://es.fiverr.com/s/qDZK6PV)**
+* ✍️ **[Technical SEO Articles & Documentation](https://es.fiverr.com/s/DBPYlyP)**
+
+Feel free to reach out for custom automation scripts or red teaming assessments!
